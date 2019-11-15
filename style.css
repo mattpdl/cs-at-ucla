@@ -1,0 +1,30 @@
+/* Sets the background of the navbar to orange */
+nav {
+    background-color: orange;
+}
+
+/* Adds spacing to the top of each row block of content on a webpage */
+.row {
+    margin-top: 1em;
+}
+
+/* Centers images and resizes them onscreen */
+.sideImg {
+    display: block;
+    margin: auto;
+    width: 90%;
+}
+
+.logoImg {
+    display: block;
+    margin: auto;
+    width: 80%;
+}
+
+/* Centers images and resizes them onscreen within a circle */
+.profileImg {
+    display: block;
+    border-radius: 50%;
+    margin: auto;
+    width: 80%;
+}
